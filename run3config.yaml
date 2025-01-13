@@ -1,0 +1,12 @@
+project: 'PRAD'
+community_top: 8
+over_community_num: 8
+step_size: 0.01
+threshold: 0.01
+method: 'CPM'
+dimension: 4
+numIter: 2
+power: 2
+inflation: 2
+c_num: 2
+spectral_k: 40

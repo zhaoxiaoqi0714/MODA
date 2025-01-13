@@ -1,0 +1,14 @@
+dataSet: 'PRAD'
+agg_func: 'MEAN'
+epochs: 30
+b_sz: 50
+seed: 777
+cuda: False
+learn_method: 'sup'
+unsup_loss: 'normal'
+name: 'debug'
+num_layers: 2
+hidden_emb_size: 128
+gcn: False
+loss_mean_inital: 100
+weight: 3
